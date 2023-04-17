@@ -9,5 +9,6 @@ namespace GitTest2
     public interface IAttackable
     {
         void Attack();
+        //공격 구현
     }
 }

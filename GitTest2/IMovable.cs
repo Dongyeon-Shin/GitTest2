@@ -9,6 +9,7 @@ namespace GitTest2
      public interface IMovable
     {
         void Move();
+        //움직임 구현
         
     }
 }
