@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest2
 {
-    internal interface IAttackable
+    public interface IAttackable
     {
         void Attack();
     }

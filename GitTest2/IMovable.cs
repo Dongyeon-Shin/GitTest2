@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitTest2
 {
-    internal interface IMovable
+     public interface IMovable
     {
         void Move();
+        
     }
 }
