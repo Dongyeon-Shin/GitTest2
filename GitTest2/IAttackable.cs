@@ -8,5 +8,6 @@ namespace GitTest2
 {
     internal interface IAttackable
     {
+        void Attack();
     }
 }
